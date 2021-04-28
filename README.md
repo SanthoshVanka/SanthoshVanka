@@ -1,17 +1,24 @@
 ### Hi there 👋, I am Santhosh
 #### An Science Student
-![An Science Student]
 
+ 
 I am passionate about my work. I want to observe the things in practical manner. 
 
-Skills: C/Data Science/Python
+![Profile views](https://gpvc.arturio.dev/SanthoshVanka)
 
-- 🔭 I’m currently working on this page. 
+**Languages & Frameworks**
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SanthoshVanka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SanthoshVanka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Santhoshchowdary Vanka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Santhosh_Chowdary_Vanka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/santhosh6644)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Vanka Janaki Rama Santhosh)  
-
-![Profile views](https://gpvc.arturio.dev/SanthoshVanka)  
+ <img alt="C" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg"/>|<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>
+ 
+**Tools**
+ 
+ <img alt="Linux" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/Linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>
+ 
+ **Designing and Photo Editing**
 
 <img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/>
+
+### Connect with Me
+(https://SanthoshVanka.github.io) [<img align="left" alt="Twitter - Santhosh6644" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/santhosh6644?s=09) [<img align="left" alt="Instagram - Santhosh_Chowdary_Vanka" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/santhosh_chowdary_vanka?r=nametag) [<img align="left" alt="Facebook - Santhosh Chowdary Vanka" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/facebook.svg" />](https://www.facebook.com/Santhosh6644/)[<img align="left" alt="LinkedIn -Janaki Rama Santhosh Vanka" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https:www.linkedin.com/in/janaki-rama-santhosh-vanka-6aba4719a/) [<img align="left" alt="Email -Vanka Janaki Rama Santhosh" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:vjrs6666@gmail.com)
+
 
