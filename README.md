@@ -8,19 +8,15 @@ I am passionate about my work. I want to observe the things in practical manner.
 
 **Languages & Frameworks**
 
- <img alt="C" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg"/>|<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>
- |--|--|--|--|--|--|--|
+ <img alt="C" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg"/><img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/> 
  
 **Tools**
 
 <img alt="Fedora" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>
- |--|--|--|--|--|
  
  **Designing and Photo Editing**
 
 <img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/>
-|--|--|--|
- |--|--|
  
 ### Connect with Me
 
