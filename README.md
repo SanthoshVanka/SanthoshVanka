@@ -7,13 +7,13 @@ I am passionate about my work. I want to observe the things in practical manner.
 ![Profile views](https://gpvc.arturio.dev/SanthoshVanka)
 
 ## My Skills :
-
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="350">
 **Languages & Frameworks**
 
  <img alt="C" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg"/>|<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/> 
  |--|--|--|
  
- <img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="350">
+ 
  
  
 **Tools**
