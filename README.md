@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Santhosh
-#### An Science Student
+#### An Science Student ,currently Pursuing BTech at NITSikkim
 
  
 I am passionate about my work. I want to observe the things in practical manner. 
@@ -30,4 +30,4 @@ I am passionate about my work. I want to observe the things in practical manner.
 
 [<img align="left" alt="Twitter - Santhosh6644" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/santhosh6644?s=09) [<img align="left" alt="Instagram - Santhosh_Chowdary_Vanka" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/santhosh_chowdary_vanka?r=nametag) [<img align="left" alt="Facebook - Santhosh Chowdary Vanka" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/facebook.svg" />](https://www.facebook.com/Santhosh6644/)[<img align="left" alt="LinkedIn - Janaki Rama Santhosh Vanka" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/janaki-rama-santhosh-vanka-6aba4719a) [<img align="left" alt="Email -Vanka Janaki Rama Santhosh" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:vjrs6666@gmail.com)[<img align="left" alt="Youtube - Vanka Janaki Rama Santhosh" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/channel/UCJAaaypgy0Emcs1cRK-bmWA)
 
-
+<img align="center" alt="santhoshvanka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanthoshVanka&count_private=true&show_icons=true&hide_border=true&theme=cobalt" />
