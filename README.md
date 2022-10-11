@@ -2,7 +2,7 @@
 #### An Science Student ,currently Pursuing BTech at NITSikkim
 
  
-I am passionate about my work. I want to observe the things in practical manner. 
+The analytical-minded individual was interested in the position of Software Developer. Coming with sound knowledge of basic computer system analysis, design, testing, debugging, and maintenance techniques and practices; and the ability to develop programs and program specifications. I want to observe the things in practical manner. 
 
 ![Profile views](https://gpvc.arturio.dev/SanthoshVanka)
 
